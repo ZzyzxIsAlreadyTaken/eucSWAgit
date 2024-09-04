@@ -25,4 +25,4 @@ jobs:
           action: "upload"
           app_location: "/src" # Location of your app source code
           api_location: "api" # Location of your API source code, if any
-          output_location: "build" # Location of the built ouazure-static-web-apps-lemon-ground-060cc4703.ymltput for your app
+          output_location: "build" # Location of the built output for your app
